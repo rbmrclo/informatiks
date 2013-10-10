@@ -1,6 +1,6 @@
 # Informatiks
 
-  E-commerce web application of Informatics using [Spree] - an open source
+  E-commerce web application of [Informatics] Diliman using [Spree] - an open source
   e-commerce solution for Ruby on Rails.
 
 ### Why I did this?
@@ -36,3 +36,4 @@ Lets run the magic codes.
   (c) 2013 Robbie Marcelo | MIT. See [License] for more details.
 
 [Spree]: https://github.com/spree/spree
+[Informatics]: http://www.informatics.edu.ph/ihpi/
