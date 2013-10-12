@@ -37,3 +37,4 @@ Lets run the magic codes.
 
 [Spree]: https://github.com/spree/spree
 [Informatics]: http://www.informatics.edu.ph/ihpi/
+[License]: http://opensource.org/licenses/MIT
